@@ -1,5 +1,5 @@
 # Forbes2000
-python web scraping
+python web scraping and analysis
 
 introductory project from nycdsa bootcamp
 
