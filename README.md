@@ -1,12 +1,14 @@
 # Forbes2000
-python web scraping and analysis
+python web scraping and data visualization
 
-introductory project from nycdsa bootcamp
+project from nycdsa bootcamp
 
 first scraper ran through the list and took the data from the main page.
 second scraper clicked to see a more detailed page for each company and gathered more data.
 the web page has since been updated so the scrapers no longer work, but should be good to go after some minor adjustments. not a priority right now.
 
+############################################################################
+clean up file descriptions here
 the analysis jupyter notebook covers all of the code once the scraping is done.
 the data is cleaned and then plotted to provide an illustration of the relationships contained in the data.
 
